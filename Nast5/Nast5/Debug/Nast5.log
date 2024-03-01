@@ -1,0 +1,5 @@
+﻿  NAST5.cpp
+C:\Users\влад\source\repos\Nast5\Nast5\NAST5.cpp(49,22): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\влад\source\repos\Nast5\Nast5\NAST5.cpp(67,22): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\влад\source\repos\Nast5\Nast5\NAST5.cpp(88,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  Nast5.vcxproj -> C:\Users\влад\source\repos\Nast5\Debug\Nast5.exe
